@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400;600;700&display=swap');
+
+//fuentes
+$font: 'Roboto Mono', monospace;
+$regular-font: 400;
+$bold-font: 600;
+
+$sm-font: 0.75rem;
+$md-font: 1rem;
+$lg-font: 1.25rem;
+$xlg-font: 1.5rem;
+
+//breakpoints
+$bp-sm: 576px;
+$bp-md: 768px;
+$bp-lg: 992px;
+$bp-xl: 1200px;
+
+//colores
+$white: #fff;
+$light-gray: #f2f4f5;
+$gray: gray;
+$steelblue: steelblue;
+$coral: coral;
