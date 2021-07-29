@@ -74,7 +74,6 @@ body {
         width: 100%;
         display: inline-block;        
         cursor: pointer;
-        margin-bottom: 3rem;
 
         @include respond-to($bp-sm) {
             width: 90%;
